@@ -16,6 +16,7 @@ public class Mio_clon {
      */
     public static void main(String[] args) {
         System.out.println("Hola mundo, como estas?");
+        System.out.println("Reguleras");
     }
     
 }
